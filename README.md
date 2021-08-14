@@ -1,4 +1,4 @@
-# Hello!
+# Hello World!
 I am...
 - A beginner web developer
 - A [Discord.py bot](https://github.com/opensourze/1bot) developer
@@ -18,6 +18,8 @@ I am...
 <a href="https://www.reddit.com/user/opensourze" target="_blank" href="https://www.reddit.com/user/opensourze">
   <img src="https://img.shields.io/badge/reddit%20-ff5700.svg?&style=for-the-badge&logo=reddit&logoColor=white">
 </a>
+
+#### Check out my (new) blog: https://opensourze.hashnode.com
   
 [![OpenSourze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=opensourze)](https://github.com/opensourze)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=opensourze&layout=compact)](https://github.com/opensourze)
