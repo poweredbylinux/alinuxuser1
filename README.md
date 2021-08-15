@@ -1,4 +1,6 @@
 # Hello World!
+<div align="right">![Profile view count](https://komarev.com/ghpvc/?username=opensourze&color=ff6600&style=flat-square)</div>
+
 I am...
 - A beginner web developer
 - A [Discord.py bot](https://github.com/opensourze/1bot) developer
