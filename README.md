@@ -1,11 +1,13 @@
 # Hello World! <div align="right">![Profile view count](https://komarev.com/ghpvc/?username=opensourze&color=ff6600&style=flat-square)</div>
 
+![Banner](https://user-images.githubusercontent.com/64643552/130650119-65aa8aa7-e2f6-4cd7-a75e-dc964044835e.png)
+
 I am...
 - A beginner web developer
 - A [Discord.py bot](https://github.com/opensourze/1bot) developer
 - An open-source enthusiast
 - Privacy-conscious
-## Software I use and Love
+## Software/Services I use
 **Web Browser:** [Vivaldi](https://vivaldi.com) for browsing, [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) for web development  
 **Text Editor:** [Visual Studio Code by Microsoft](https://code.visualstudio.com/)   
 **Discord Bot Host:** [Motion Host](https://hosting.motiondevelopment.top)  
